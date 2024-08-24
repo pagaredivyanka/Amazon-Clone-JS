@@ -6,7 +6,7 @@ URL - https://pagaredivyanka.github.io/Amazon-Project/
 - DOM manipulation
 - recursion
 - Normalization
-- MVC
+- MVC - Model, View, Controller
 
 - Unit Testing - Jasmine Framework
 - Hooks in Jasmine
