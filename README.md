@@ -10,8 +10,8 @@ URL - https://pagaredivyanka.github.io/Amazon-Project/
 
 - Unit Testing - Jasmine Framework
 - Hooks in Jasmine
-1. beforeEach()
-2. afterEach()
-3. beforeAll()
-4. afterAll()
+  1. beforeEach()
+  2. afterEach()
+  3. beforeAll()
+  4. afterAll()
 
