@@ -1,4 +1,4 @@
-# Amazon-Project
+# Amazon-Clone-JS
 
 ## Learning
 - DOM manipulation
